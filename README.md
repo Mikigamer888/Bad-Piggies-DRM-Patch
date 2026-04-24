@@ -6,5 +6,5 @@ Before continuing ensure you have Bad Piggies 1.5.1 installed, as this will work
 3. Replace `Assembly-CSharp.dll` with the downloaded one.
 4. Launch Bad Piggies and if the key icon on the bottom of the screen dissapeared it means the modified `Assembly-CSharp.dll` is working perfectly.
 ## Credits
-Bad Piggies is a registered trademark of Rovio Entertainment Corporation
+Bad Piggies is a registered trademark of Rovio Entertainment Corporation  
 DRM Patched by Gemini
