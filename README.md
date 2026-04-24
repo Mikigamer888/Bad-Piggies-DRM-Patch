@@ -1,5 +1,6 @@
+# IMPORTANT
+Before continuing ensure you have Bad Piggies 1.5.1 installed, as this will work only for version 1.5.1 for Windows.
 # How to setup
-Ensure you have Bad Piggies 1.5.1 installed, this will work only for verion 1.5.1 for Windows.
 1. Download `Assembly-CSharp.dll` file.
 2. Go to `C:\Program Files (x86)\Rovio Entertainment Ltd\Bad Piggies\BadPiggies_Data\Managed` and there should be `Assembly-CSharp.dll`.
 3. Replace `Assembly-CSharp.dll` with the downloaded one.
